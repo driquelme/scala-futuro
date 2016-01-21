@@ -15,9 +15,6 @@ object Ejemplo7 {
     //Resultado 2
     "hola 1"
 
-    throw new Exception("ERROR")
-
-    println("1")
   }
 
   def operacionLenta7_1 = Future {
